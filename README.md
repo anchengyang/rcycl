@@ -1,5 +1,6 @@
 # rcycl
 Recycling app built using the React Native framework, Firebase and WalletConnect
+Demo link: https://www.youtube.com/shorts/dfm81AVILZ8
 
 1. Users sign in using their Web3 wallet such as Metamask or Trust Wallet, 
 allowing them to receive tokens for every act of recycling.
